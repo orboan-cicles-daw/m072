@@ -3,28 +3,32 @@
 
 ### Nom i cognoms:
 
-1. Marca les UFs de primer d'aquest mòdul que tens superades:
+1. Què és Hibernate?
 
-    a- UF1
+    a- Un framework per a programar contra una base de dades
 
-    b- UF2
+    b- Un framework per a programar interfícies d'usuari
 
-    c- UF3
+    c- Un patró de disseny per a programar de forma fàcil i clara
 
-2. Has programat abans de començar els estudis de DAW? On? Quant de temps?
 
-    Resposta: 
+2. Què és Spring?
+
+    a - Un framework per a programar aplicacions en xarxa
     
+    b - Un framework Java per a desenvolupar aplicacions web de forma fàcil
     
-    -
+    c - Un llenguatge de programació complementari a Java per a crear aplicacions web
 
 
-3. Què és compilar un programa?
+3. Què vol dir MVC?
 
-    Resposta:
+    a - Model Variable Constant
     
+    b - Model View Constant
     
-    -
+    c - Model View Controller
+    
 
 4. Què és un llenguatge interpretat i en què es diferencia d'un llenguatge compilat?
 
